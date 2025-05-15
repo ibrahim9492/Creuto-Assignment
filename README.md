@@ -1,6 +1,6 @@
-# Bookshelf Management App
+# Book Management App
 
-A simple web application for managing a personal bookshelf. This app allows users to add, edit, delete, search, and manage books by categorizing them into unfinished and finished lists.
+A simple web application for managing a personal book. This app allows users to add, edit, delete, search, and manage books by categorizing them into unfinished and finished lists.
 
 ## Features
 
@@ -10,7 +10,7 @@ A simple web application for managing a personal bookshelf. This app allows user
 - **Search Book**: Quickly find books by their title.
 - **Change Completion Status**: Move books between unfinished and finished lists.
 
-### Bookshelf Lists
+### Book Lists
 The app organizes books into two separate lists:
 1. **Unfinished Book List**: Contains books that are still being read.
 2. **Finished Book List**: Contains books that have been completed.
